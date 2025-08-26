@@ -482,3 +482,9 @@ localhost                  : ok=2    changed=0    unreachable=0    failed=0    s
 
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
 
+<-- Ответ
+
+
+[barsukov-test-1.0.0.tar.gz](https://github.com/Barsukov-Alex/08-ansible-06-module)
+
+---
